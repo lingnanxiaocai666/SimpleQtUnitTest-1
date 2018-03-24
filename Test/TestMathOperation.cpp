@@ -44,5 +44,5 @@ void TestMathOperation::testAddition6()
 void TestMathOperation::testAddition7()
 {
     MathOperation mathOperation;
-	QCOMPARE(mathOperation.addTwoNumber(-91231643619,126451761234),1659121745129); //QCOMPARE( actual, expected)
+	QCOMPARE(mathOperation.addTwoNumber(-91233619,1261234),1659129); //QCOMPARE( actual, expected)
 }

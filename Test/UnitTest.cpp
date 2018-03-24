@@ -5,9 +5,9 @@ UnitTest::UnitTest()
 
 }
 
-void UnitTest::run()
+int UnitTest::run()
 {
     TestMathOperation testMathOperation;
-    QTest::qExec(&testMathOperation);
+    return QTest::qExec(&testMathOperation);
 }
 

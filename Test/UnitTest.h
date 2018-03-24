@@ -7,7 +7,7 @@ class UnitTest
 {
 public:
     UnitTest();
-    static void run();
+    static int run();
 };
 
 #endif // UNITTEST_H

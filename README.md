@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/aknay/SimpleQtUnitTest.svg?branch=master)](https://travis-ci.org/aknay/SimpleQtUnitTest)
+[![Build Status](https://travis-ci.org/pancuro/SimpleQtUnitTest.svg?branch=master)](https://travis-ci.org/pancuro/SimpleQtUnitTest)
 
 # SimpleQtUnitTest
 

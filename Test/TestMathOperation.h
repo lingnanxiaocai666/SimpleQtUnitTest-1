@@ -18,7 +18,13 @@ public:
     TestMathOperation();
 
 private slots:
-    void testAddition();
+    void testAddition1();
+    void testAddition2();
+    void testAddition3();
+    void testAddition4();
+    void testAddition5();
+    void testAddition6();
+    void testAddition7();
 
 };
 
